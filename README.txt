@@ -4,13 +4,17 @@ SIT756 Assessment 2 - VR Development Challenge submission
 
 /////////////////////////////////////////////////////////
 
+To Play: Run .exe file in 'Build' folder
+
+/////////////////////////////////////////////////////////
+
 Project Title: Reaction Speed Challenge
 
 Author: Arthur Cheng
 Student Number: 220309554
 
 Unity Version: 2019.3.3f1
-SteamVR Plugin version: 2.5.0 (SDK 1.8.19) – imported from Unity Asset Store
+SteamVR Plugin version: 2.5.0 (SDK 1.8.19) â€“ imported from Unity Asset Store
 
 Tested on Oculus Rift CV1
 
